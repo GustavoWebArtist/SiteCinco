@@ -1,0 +1,55 @@
+@charset "utf-8 , ansi ,ISO-8859-1";
+
+body{
+	background: #d2d2c1 url(fundo2.png);
+	font: 16px Arial, Helvetica, sans-serif;
+}
+
+#principal {
+	width: 900px;
+    margin: auto;
+}
+
+#menu {
+	background: #e26ffd;
+	padding: 18px;
+    text-align: center;
+}
+
+#conteudo {
+	background: #e8e8d9;
+	padding: 10px;
+}
+
+#rodape {
+	text-align: center;
+}
+
+a {
+	color: #ffffff;
+	text-decoration: none;
+	padding: 5px;
+}
+
+a:hover {
+    color: #441658;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.centralizar {
+	text-align: center;
+}
+
+.img-campanha {
+	border: 10px solid #efc53b;
+}
+
+h1 {
+	color: #828271;
+	font-size: 1.2em;
+}
+
+hr {
+    width: 400px;
+}
